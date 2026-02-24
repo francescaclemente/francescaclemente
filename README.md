@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**francescaclemente/francescaclemente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cytometry In R
 
-Here are some ideas to get you started:
+Location: Milano, Italy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Favorite Fluorophore: RB780
+
+
+# Francesca Clemente 🧬
+
+🔭 I’m currently working as Bioinformatician and Flow Cytometry Specialist at San Raffaele Scientific Institute.
+🌱 I’m currently deepening my expertise in **High Dimensional Flow Cytometry** and advanced **spectral panel design**.
+
+---
+*Bioinformatician | Flow Cytometry Specialist*
+
